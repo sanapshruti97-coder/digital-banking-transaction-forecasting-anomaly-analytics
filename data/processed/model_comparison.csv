@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2
+Random Forest,223835.3544,447680.864,-0.2453
+Seasonal Naive (Lag 7),189482.159,490438.4363,-0.4946
+Gradient Boosting,254907.6524,519350.8574,-0.676
